@@ -57,4 +57,41 @@ This means:
 - You must credit the original author  
 - Any modified documentation must also remain open  
 
+## 🤝 Contributor Rules (Plain English)
 
+By contributing, you agree that:
+- Code you submit is GPLv3  
+- Documentation you submit is CC-BY-SA  
+- Contributions cannot be revoked later  
+- Attribution will always be maintained  
+- All forks must remain open-source  
+
+This keeps USOS open for the entire community.
+
+## 🚀 Project Philosophy
+
+USOS is built on:
+- Direct physical reasoning (airflow, mass, torque, pressure)
+- Transparent logic (no black boxes)
+- Strong diagnostics
+- Safe fallback behavior
+- Cross-checked sensor validation
+- Long-term adaptive learning informed by real signals  
+- Predictable, service-manual-style operation
+
+Everything is about clarity, reliability, and user control.
+
+## 📢 Community & Future
+
+USOS aims to become a fully open, fully documented alternative to closed OEM and aftermarket ECUs.  
+Future features include:
+
+- Cross-platform portability  
+- Built-in learning and trim export  
+- Paid-app optional visual tools (waveforms, trims, flowcharts)  
+- Hardware abstraction layers  
+- Self-test modes  
+- Open communication protocols  
+- Full engine & transmission swap support  
+
+Pull requests are welcome when the project becomes public-ready.
